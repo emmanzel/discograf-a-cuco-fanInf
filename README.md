@@ -1,2 +1,2 @@
-# discograf-a-cuco-fanInf
-Página de un proyecto final de la escuela, incluye información discográfica de cuco 
+# Crear-un-Formulario-de-Registro-con-HTML-y-CSS-
+Creación de un simple y sencillo formulario de Registro con HTML y CSS
